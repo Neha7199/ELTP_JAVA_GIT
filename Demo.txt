@@ -1,5 +1,7 @@
 hello world
 
-change 1
+change - 1
 
-Fixing bug1
+Fixing - bug1
+
+change 3-  by teammate
