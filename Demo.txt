@@ -3,3 +3,5 @@ hello world
 change 1
 
 Fixing bug1
+
+bug 2 :change 3
