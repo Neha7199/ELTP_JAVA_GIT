@@ -14,3 +14,5 @@ bug 2 :->change 3.
 change 5 :Enhancement1.
 
 change 7: Push to remote /origin master
+
+change 8 : by temmate on remote master WI7 
